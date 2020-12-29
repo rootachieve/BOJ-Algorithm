@@ -19,6 +19,7 @@
 ## 슬라이딩 윈도우
 >[[11003] 최솟값 찾기](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B11003%5D%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%B0%BE%EA%B8%B0.c)  
 ## KMP
+[[1786] 찾기](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B1786%5D%20%EC%B0%BE%EA%B8%B0.c)  
 ## 세그먼트 트리
 >[[2042] 구간 합 구하기](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B2042%5D%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.c)  
 
