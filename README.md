@@ -24,7 +24,5 @@
 >[[2042] 구간 합 구하기](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B2042%5D%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.c)  
 >[[10868] 최솟값](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B10868%5D%20%EC%B5%9C%EC%86%9F%EA%B0%92.c)  
 
-https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B10868%5D%20%EC%B5%9C%EC%86%9F%EA%B0%92.c
-
 ## 강한 연결 요소
 >[[2150] Strongly Connected Component](https://github.com/rootachieve/BOJ-Algorithm/blob/main/%5B2150%5D%20Strongly%20Connected%20Component.c)
